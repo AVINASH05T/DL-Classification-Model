@@ -1,5 +1,7 @@
 # Developing a Neural Network Classification Model
 
+### NAME : AVINASH T
+### REG NO: 212223230026
 ## AIM
 To develop a neural network classification model for the given dataset.
 
